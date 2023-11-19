@@ -1,5 +1,5 @@
 # AI相关内容导航
-
+![](https://img.shields.io/badge/license-MIT-blue.svg) 
 ## AI工具收集网站
 
 ### 国内
