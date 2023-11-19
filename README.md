@@ -3,21 +3,13 @@
 ## AI工具收集网站
 
 ### 国内
-
-[AI工具集](https://ai-bot.cn/)：这里面收录了国内外数百个各种类型的AI工具，还有一些工具的使用教程。
-
-[36krai](https://36krai.com/)：风格和上面的AI工具集很像
-
-[ToolAI](https://www.toolai.io/zh)：截至到2023年11月底，已经包含了6800+人工智能平台和工具，该网站有一个AIChat，既能够与大模型进行对话，也可以咨询工具集中的每一个工具的相关信息
-
-[AIHub](https://www.aihub.cn/#term-427)：收集了很多的AI资源，咨询和工具的信息
-
-[AInav](https://www.ainav.cn/)：建站比较早，号称是国内最全的AI工具收集网站
-
-[AIGC工具导航](https://nav.aiwave.cc/)：也提供了一个AI助手，可以聊天也可以通过对话的方式进行创作
-
-[AIL Resources](https://www.ai-lib.club/): 主题是发现和探索人工智能工具，网站的内容倾向于从实际的应用场景出发推荐AI工具
-
+- [AI工具集](https://ai-bot.cn/)：这里面收录了国内外数百个各种类型的AI工具，还有一些工具的使用教程。
+- [36krai](https://36krai.com/)：风格和上面的AI工具集很像
+- [ToolAI](https://www.toolai.io/zh)：截至到2023年11月底，已经包含了6800+人工智能平台和工具，该网站有一个AIChat，既能够与大模型进行对话，也可以咨询工具集中的每一个工具的相关信息
+- [AIHub](https://www.aihub.cn/#term-427)：收集了很多的AI资源，咨询和工具的信息
+- [AInav](https://www.ainav.cn/)：建站比较早，号称是国内最全的AI工具收集网站
+- [AIGC工具导航](https://nav.aiwave.cc/)：也提供了一个AI助手，可以聊天也可以通过对话的方式进行创作
+- [AIL Resources](https://www.ai-lib.club/): 主题是发现和探索人工智能工具，网站的内容倾向于从实际的应用场景出发推荐AI工具
 ### 国外
 
 [zapier](https://zapier.com/apps/categories/ai-tools)：是美国的一个自动化工具，它里面也收录了很多AI工具的信息，但是都是国外的工具。
