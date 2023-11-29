@@ -29,7 +29,7 @@
 - [AI Depot](https://aidepot.co/)：AI工具的导航网站，也包含一些新闻消息，会每周更新
 - [SaaS AI Tools](https://saasaitools.com/#tools)：包含最新的AI新闻，而且以实际应用场景出发来展示AI工具
 - [AI Tool Hunt](https://www.aitoolhunt.com/)：也是一个集工具收集和AI新闻为一身的网站，日更
-## GPTs
+## GPTs收集网站
 - [Top GPT apps](https://topgpts.app/)：Curated list of all the best GPT apps
 - [All GPTs](https://allgpts.co/): #1 GPT Directory, GPTs list is Updated daily
 - [Direct GPTs](https://www.directgpts.com/): Share and Discover custom GPTs
