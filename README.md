@@ -44,4 +44,10 @@
 - [Chatbee](https://gpts.chatbee.cc/): a collection of top GPTs
 - [GPTs Hub](https://gptshub.app/): Find latest GPTs for ChatGPT in one directory all over the world
 - [GPTs AI Store](https://gptsaistore.com/): 16197 fantastic GPTs stored! Find fantastic GPTs all over the world.
+- [BestGPTs](https://bestgpts.app/zh-CN/): 22722个最佳GPT和定制版ChatGPT，由ChatGPT每天自动更新
+- [GPTsCollections](https://gptscollection.xyz/): GPTs collections and a filter to search GPTs by specific conditions
+- [Best GPTs](https://bestgpts.world/): 1460 GPTs total
+- [GPTs Link](https://gptslink.xyz/): Share and Discover custom GPTs
+- [CUSTOM GPTs](https://www.customgpts.info/): a custom GPTs store
+- [Meetups.AI](https://meetups.ai/): Custom OpenAI Assistant directory, new GPTs every day
 
