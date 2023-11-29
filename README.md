@@ -30,5 +30,18 @@
 - [SaaS AI Tools](https://saasaitools.com/#tools)：包含最新的AI新闻，而且以实际应用场景出发来展示AI工具
 - [AI Tool Hunt](https://www.aitoolhunt.com/)：也是一个集工具收集和AI新闻为一身的网站，日更
 ## GPTs
-- 待更新。。。
+- [Top GPT apps](https://topgpts.app/)：Curated list of all the best GPT apps
+- [All GPTs](https://allgpts.co/): #1 GPT Directory, GPTs list is Updated daily
+- [Direct GPTs](https://www.directgpts.com/): Share and Discover custom GPTs
+- [GPTs Today](https://gptstoday.com/): 15967 GPTs found and counting.
+- [GPTs Works](https://gpts.works/): 16197 fantastic GPTs stored! Find fantastic GPTs all over the world.
+- [GPTs Hunter](https://www.gptshunter.com/): Share and discover the best custom GPTs in GPT store and use on ChatGPT.
+- [gptsguide.org](https://gptsguide.org/): An app store that discovers and uses the best AI GPT through OpenAI.
+- [Top GPTs](https://top-gpts.com/): find the bestest GPT in internet. update daily.
+- [word.studio](https://word.studio/gpt/): GPT Directory
+- [GPTLet](https://gptlet.app/): Find the BEST GPTs for You!
+- [SurpriseGpts](https://suprisegpts.com/): Word drops, GPT surprise pops!
+- [Chatbee](https://gpts.chatbee.cc/): a collection of top GPTs
+- [GPTs Hub](https://gptshub.app/): Find latest GPTs for ChatGPT in one directory all over the world
+- 
 
