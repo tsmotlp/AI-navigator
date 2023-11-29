@@ -43,5 +43,5 @@
 - [SurpriseGpts](https://suprisegpts.com/): Word drops, GPT surprise pops!
 - [Chatbee](https://gpts.chatbee.cc/): a collection of top GPTs
 - [GPTs Hub](https://gptshub.app/): Find latest GPTs for ChatGPT in one directory all over the world
-- 
+- [GPTs AI Store](https://gptsaistore.com/): 16197 fantastic GPTs stored! Find fantastic GPTs all over the world.
 
